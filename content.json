@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "deckId": "ste",
+    "title": "FlowPitch to Core dna",
+    "theme": "Blue"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "FlowPitch for Core dna",
+      "subheadline": "Activate your Core dna content into personalized buyer experiences"
+    },
+    {
+      "type": "section",
+      "headline": "What FlowPitch Generates",
+      "subheadline": "Outputs tailored to each account"
+    },
+    {
+      "type": "content",
+      "headline": "Outputs, generated from Core dna",
+      "bullets": [
+        "Tailored sales decks",
+        "Interactive proposal microsites",
+        "Account-specific product walkthroughs",
+        "Customer onboarding presentations",
+        "Partner enablement portals",
+        "Industry-specific demo environments"
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Why it matters",
+      "subheadline": "From static publishing to activated experiences"
+    },
+    {
+      "type": "beforeAfter",
+      "headline": "Before vs After",
+      "left": {
+        "title": "Before: Static handoffs",
+        "bullets": [
+          "Marketers publish static assets",
+          "Sales rebuild slides manually",
+          "Version drift, off-brand decks",
+          "Slow personalization"
+        ]
+      },
+      "right": {
+        "title": "After: Activated with FlowPitch",
+        "bullets": [
+          "Pulls from Core dna source of truth",
+          "Auto-builds custom decks or microsites",
+          "Always current and consistent",
+          "Personalization in minutes"
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "headline": "How it works",
+      "subheadline": "Connected to Core dna"
+    },
+    {
+      "type": "content",
+      "headline": "FlowPitch + Core dna: simple flow",
+      "bullets": [
+        "Pull structured content from Core dna",
+        "Map to brand-safe templates",
+        "Generate buyer-specific deck or microsite",
+        "Share as link or file"
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Value for marketing",
+      "bullets": [
+        "Single source of truth in Core dna",
+        "Enforce brand and messaging",
+        "Publish once, reuse everywhere",
+        "Fewer last-minute requests"
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Value for sales",
+      "bullets": [
+        "Faster, cleaner personalization",
+        "Materials always up to date",
+        "Account-specific walkthroughs and proposals",
+        "Clear, guided next steps"
+      ]
+    },
+    {
+      "type": "closing",
+      "headline": "Core dna is the source. FlowPitch is the activator.",
+      "subheadline": "Turn content into conversations.",
+      "bullets": [
+        "Connect Core dna",
+        "Choose templates",
+        "Generate your next deck"
+      ]
+    }
+  ]
+}

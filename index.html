@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0f1f">
+  <title>FlowPitch to Core dna — Deck</title>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="bgLayer layer-aurora" aria-hidden="true"></div>
+  <div class="bgLayer layer-glow" aria-hidden="true"></div>
+
+  <header id="topNav" class="topNav" role="banner">
+    <div class="navInner">
+      <div class="brand">
+        <span class="logoDot" aria-hidden="true"></span>
+        <span id="deckTitle" class="brandTitle">FlowPitch</span>
+      </div>
+      <div class="navActions">
+        <button id="prevBtn" class="navBtn" type="button" aria-label="Previous slide">‹ Prev</button>
+        <button id="nextBtn" class="navBtn primary" type="button" aria-label="Next slide">Next ›</button>
+        <div class="sep" aria-hidden="true"></div>
+        <button id="exportPdfBtn" class="navBtn ghost" type="button" aria-label="Export PDF">Export PDF</button>
+      </div>
+    </div>
+    <div id="topProgress" aria-hidden="true"><div id="topProgressBar"></div></div>
+  </header>
+
+  <main id="deckRoot" class="deckRoot" role="main">
+    <div id="slides" class="slides" tabindex="0" aria-live="polite" aria-label="Presentation slides"></div>
+  </main>
+
+  <nav id="sideDots" aria-label="Slide progress"></nav>
+
+  <div id="pdfStage" aria-hidden="true"></div>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
